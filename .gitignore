@@ -13,3 +13,7 @@
 /build/
 /my-*
 __pycache__/
+out/
+ M .gitignore
+docs/**/*.tmp
+docs/**/*.db
