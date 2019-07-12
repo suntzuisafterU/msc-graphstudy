@@ -15,3 +15,7 @@
 __pycache__/
 dependencies/
 src/.vscode/
+out/
+ M .gitignore
+docs/**/*.tmp
+docs/**/*.db
